@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/junit-team/junit-framework/commit/12f007f531867169baefe4483b7d7e5dd15acc77",
       "git:hexsha": "12f007f531867169baefe4483b7d7e5dd15acc77",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/junit-team/junit-framework/commit/ccdbc6d9a3a0b28a481ed0758e2ac50859e2231e",
