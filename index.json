@@ -1,0 +1,11 @@
+{
+  "org": "junit-team",
+  "repo": "junit-framework",
+  "versions": [
+    {
+      "commit": "12f007f531867169baefe4483b7d7e5dd15acc77",
+      "tag": "",
+      "parsed_at": "2026-11-10T01:24:32.632029+00:00"
+    }
+  ]
+}
